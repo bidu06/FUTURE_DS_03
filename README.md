@@ -415,7 +415,7 @@ includes markdown commentary between code cells explaining each analytical step.
 
 **Bidusha Shrestha**
 
-GitHub: [bidu06](https://github.com/bidu06)
+GitHub: [bidu06](https://github.com/bidu06/FUTURE_DS_03)
 Dashboard: [Live Streamlit App](https://futureds03-hsaeavergaefnmp9dpr44r.streamlit.app/)
 Program: Future Interns — Data Science and Analytics Track, 2026
 
